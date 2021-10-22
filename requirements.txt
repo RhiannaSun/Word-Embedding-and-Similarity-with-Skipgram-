@@ -1,0 +1,8 @@
+ipython==7.20.0
+pandas==1.2.1
+torch==1.7.1
+tokenizers==0.10.0
+conllu==4.3
+wn==0.5.1
+nltk==3.5
+scipy==1.6.0
