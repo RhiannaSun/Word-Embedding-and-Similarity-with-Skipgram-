@@ -1,4 +1,4 @@
-# CS5740 A2
+# CS5740 Natural Language Processing Assigment 2
 
 In  this  assignment,  we  present  results  from  our experiment of creating vector representations for English words, such that these word embeddings accurately represent the syntactic and semantic  similarity  between  word pairs. A  subset  of  the  [1 Billion Word Language Model Benchmark](https://www.statmt.org/lm-benchmark/) corpus is used to train the skip-gram model for these experiments, which involve both, the raw text and the POS-tagged corpus.
 
